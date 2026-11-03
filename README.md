@@ -13,6 +13,7 @@ Each write-up follows how I investigated a packet capture step by step: what I l
 | # | Write-up | Topic | Tool |
 |---|----------|-------|------|
 | 01 | [PsExec Hunt](./PsExec-Hunt/) | PsExec lateral movement over SMB | Wireshark |
+| 02 | [Web Investigation](./Web-Investigation/) | SQL injection & web server compromise | Wireshark |
 
 *More coming soon.*
 
