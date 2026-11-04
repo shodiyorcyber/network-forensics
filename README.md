@@ -14,6 +14,7 @@ Each write-up follows how I investigated a packet capture step by step: what I l
 |---|----------|-------|------|
 | 01 | [PsExec Hunt](./PsExec-Hunt/) | PsExec lateral movement over SMB | Wireshark |
 | 02 | [Web Investigation](./Web-Investigation/) | SQL injection & web server compromise | Wireshark |
+| 03 | [Tomcat Takeover](./Tomcat-Takeover/) | Apache Tomcat compromise: scan → brute-force → WAR upload → reverse shell | Wireshark |
 
 *More coming soon.*
 
